@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I'm currently working on porting the Nomad Alliance Website to React.js
+- I have worked with Java, Javascript (vanilla and React), C, C++, Python, HTML and CSS
+- Hyped for FRC 2022!
+
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 <!--
 **sammcdo/sammcdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
