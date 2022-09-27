@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - My name is Sam
-- I'm currently working on porting the Nomad Alliance Website to React.js
+- I'm currently working on a DC Metro System Tracker in Python
 - I have worked with Java, Javascript (vanilla and React), C, C++, Python, HTML and CSS
-- Hyped for FRC 2022!
 
 #### Languages I Use
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
