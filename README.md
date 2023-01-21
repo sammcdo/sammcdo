@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - My name is Sam
-- I'm currently working on a DC Metro System Tracker in Python
-- I have worked with Java, Javascript (vanilla and React), C, C++, Python, HTML and CSS
+- I'm currently working on stock trading algorithms with Happy Labz Investments
+- I'm currently learning about natural language processing and AI
+- I have worked with Python, Java, Javascript (vanilla and React), C, C++, HTML and CSS
 
 #### Languages I Use
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
