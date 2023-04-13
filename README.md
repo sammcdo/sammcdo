@@ -7,6 +7,7 @@
 - I have worked with Python, Java, Javascript (vanilla and React), C, C++, HTML and CSS
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammcdo&layout=compact&theme=gruvbox&exclude_repo=dotfiles">
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 #### Languages I Use
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
