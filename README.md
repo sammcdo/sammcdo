@@ -6,7 +6,7 @@
 - I'm also practicing to get to ICPC Nationals next season
 - I have worked with Python, Java, Javascript (vanilla and React), C, C++, HTML and CSS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammcdo&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammcdo&theme=gruvbox">  <img src="https://github-readme-stats.vercel.app/api?username=sammcdo&show_icons=true&theme=dracula">
 
 #### Languages I Use
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
